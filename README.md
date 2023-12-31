@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **building websites and working on UI/UX designs as a team.**
+- 👯 I’m looking to collaborate on **building websites and working on UI/UX designs.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-seven-sigma-31.vercel.app/](https://portfolio-seven-sigma-31.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nyando-onongwene-321210228/](https://www.linkedin.com/in/nyando-onongwene-321210228/)
+- 📝 I regularly write articles on linkedIn
 
 - 📫 How to reach me **nyandoonotex@gmail.com**
 
