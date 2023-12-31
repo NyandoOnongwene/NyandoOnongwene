@@ -1,4 +1,3 @@
-[![Masterhead](https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg)]
 <h1 align="center">Hi 👋, I'm Nyando Onongwene</h1>
 <h3 align="center">A passionate UI/UX designer and Frontend Developer from Cameroon</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
